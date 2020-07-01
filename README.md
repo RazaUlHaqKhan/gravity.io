@@ -6,3 +6,4 @@ By:
     Ishaan Venkat
     Osama Bin Laden
     Chuck Norris
+    James Charles
