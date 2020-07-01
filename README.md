@@ -7,3 +7,4 @@ By:
     Osama Bin Laden
     Chuck Norris
     James Charles
+    President Putin
