@@ -220,6 +220,12 @@
     <Reference Include="UnityEditor">
         <HintPath>C:/Program Files/Unity/Hub/Editor/2019.4.1f1/Editor/Data/Managed/UnityEditor.dll</HintPath>
     </Reference>
+    <Reference Include="UnityEditor.iOS.Extensions.Xcode">
+        <HintPath>C:/Program Files/Unity/Hub/Editor/2019.4.1f1/Editor/Data/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.Xcode.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEditor.iOS.Extensions.Common">
+        <HintPath>C:/Program Files/Unity/Hub/Editor/2019.4.1f1/Editor/Data/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.Common.dll</HintPath>
+    </Reference>
     <Reference Include="mscorlib">
         <HintPath>C:/Program Files/Unity/Hub/Editor/2019.4.1f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/mscorlib.dll</HintPath>
     </Reference>
@@ -575,61 +581,94 @@
         <HintPath>C:/Program Files/Unity/Hub/Editor/2019.4.1f1/Editor/Data/MonoBleedingEdge/lib/mono/unityscript/Boo.Lang.dll</HintPath>
     </Reference>
     <Reference Include="Unity.RenderPipeline.Universal.ShaderLibrary">
-        <HintPath>C:/gravity.io/Unity/gravity.io/Library/ScriptAssemblies/Unity.RenderPipeline.Universal.ShaderLibrary.dll</HintPath>
+        <HintPath>C:/Users/Backup_1/Documents/GitHub/gravity.io/Unity/gravity.io/Library/ScriptAssemblies/Unity.RenderPipeline.Universal.ShaderLibrary.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Timeline.Editor">
-        <HintPath>C:/gravity.io/Unity/gravity.io/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
+        <HintPath>C:/Users/Backup_1/Documents/GitHub/gravity.io/Unity/gravity.io/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.RenderPipelines.Universal.Shaders">
-        <HintPath>C:/gravity.io/Unity/gravity.io/Library/ScriptAssemblies/Unity.RenderPipelines.Universal.Shaders.dll</HintPath>
+        <HintPath>C:/Users/Backup_1/Documents/GitHub/gravity.io/Unity/gravity.io/Library/ScriptAssemblies/Unity.RenderPipelines.Universal.Shaders.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VSCode.Editor">
-        <HintPath>C:/gravity.io/Unity/gravity.io/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
+        <HintPath>C:/Users/Backup_1/Documents/GitHub/gravity.io/Unity/gravity.io/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.RenderPipelines.Core.Editor">
-        <HintPath>C:/gravity.io/Unity/gravity.io/Library/ScriptAssemblies/Unity.RenderPipelines.Core.Editor.dll</HintPath>
+        <HintPath>C:/Users/Backup_1/Documents/GitHub/gravity.io/Unity/gravity.io/Library/ScriptAssemblies/Unity.RenderPipelines.Core.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.RenderPipelines.Core.Runtime">
-        <HintPath>C:/gravity.io/Unity/gravity.io/Library/ScriptAssemblies/Unity.RenderPipelines.Core.Runtime.dll</HintPath>
+        <HintPath>C:/Users/Backup_1/Documents/GitHub/gravity.io/Unity/gravity.io/Library/ScriptAssemblies/Unity.RenderPipelines.Core.Runtime.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.2D.SpriteShape.Editor">
+        <HintPath>C:/Users/Backup_1/Documents/GitHub/gravity.io/Unity/gravity.io/Library/ScriptAssemblies/Unity.2D.SpriteShape.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
-        <HintPath>C:/gravity.io/Unity/gravity.io/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+        <HintPath>C:/Users/Backup_1/Documents/GitHub/gravity.io/Unity/gravity.io/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.2D.Path.Editor">
+        <HintPath>C:/Users/Backup_1/Documents/GitHub/gravity.io/Unity/gravity.io/Library/ScriptAssemblies/Unity.2D.Path.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.DeviceSimulator.Tests.Common">
+        <HintPath>C:/Users/Backup_1/Documents/GitHub/gravity.io/Unity/gravity.io/Library/ScriptAssemblies/Unity.DeviceSimulator.Tests.Common.dll</HintPath>
     </Reference>
     <Reference Include="Unity.RenderPipelines.Universal.Runtime">
-        <HintPath>C:/gravity.io/Unity/gravity.io/Library/ScriptAssemblies/Unity.RenderPipelines.Universal.Runtime.dll</HintPath>
+        <HintPath>C:/Users/Backup_1/Documents/GitHub/gravity.io/Unity/gravity.io/Library/ScriptAssemblies/Unity.RenderPipelines.Universal.Runtime.dll</HintPath>
     </Reference>
     <Reference Include="Unity.RenderPipelines.Universal.Editor">
-        <HintPath>C:/gravity.io/Unity/gravity.io/Library/ScriptAssemblies/Unity.RenderPipelines.Universal.Editor.dll</HintPath>
+        <HintPath>C:/Users/Backup_1/Documents/GitHub/gravity.io/Unity/gravity.io/Library/ScriptAssemblies/Unity.RenderPipelines.Universal.Editor.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.UI">
-        <HintPath>C:/gravity.io/Unity/gravity.io/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
+        <HintPath>C:/Users/Backup_1/Documents/GitHub/gravity.io/Unity/gravity.io/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Timeline">
-        <HintPath>C:/gravity.io/Unity/gravity.io/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
+        <HintPath>C:/Users/Backup_1/Documents/GitHub/gravity.io/Unity/gravity.io/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
     </Reference>
     <Reference Include="Unity.CollabProxy.Editor">
-        <HintPath>C:/gravity.io/Unity/gravity.io/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
+        <HintPath>C:/Users/Backup_1/Documents/GitHub/gravity.io/Unity/gravity.io/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Rider.Editor">
-        <HintPath>C:/gravity.io/Unity/gravity.io/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
+        <HintPath>C:/Users/Backup_1/Documents/GitHub/gravity.io/Unity/gravity.io/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary">
-        <HintPath>C:/gravity.io/Unity/gravity.io/Library/ScriptAssemblies/Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.dll</HintPath>
+        <HintPath>C:/Users/Backup_1/Documents/GitHub/gravity.io/Unity/gravity.io/Library/ScriptAssemblies/Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.dll</HintPath>
     </Reference>
-    <Reference Include="Unity.ShaderGraph.Editor">
-        <HintPath>C:/gravity.io/Unity/gravity.io/Library/ScriptAssemblies/Unity.ShaderGraph.Editor.dll</HintPath>
+    <Reference Include="Unity.DeviceSimulator.Editor">
+        <HintPath>C:/Users/Backup_1/Documents/GitHub/gravity.io/Unity/gravity.io/Library/ScriptAssemblies/Unity.DeviceSimulator.Editor.dll</HintPath>
     </Reference>
-    <Reference Include="Unity.RenderPipelines.Core.ShaderLibrary">
-        <HintPath>C:/gravity.io/Unity/gravity.io/Library/ScriptAssemblies/Unity.RenderPipelines.Core.ShaderLibrary.dll</HintPath>
+    <Reference Include="Unity.Mathematics">
+        <HintPath>C:/Users/Backup_1/Documents/GitHub/gravity.io/Unity/gravity.io/Library/ScriptAssemblies/Unity.Mathematics.dll</HintPath>
     </Reference>
-    <Reference Include="Unity.TextMeshPro">
-        <HintPath>C:/gravity.io/Unity/gravity.io/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
-    </Reference>
-    <Reference Include="UnityEditor.UI">
-        <HintPath>C:/gravity.io/Unity/gravity.io/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
+    <Reference Include="Unity.InternalAPIEngineBridge.001">
+        <HintPath>C:/Users/Backup_1/Documents/GitHub/gravity.io/Unity/gravity.io/Library/ScriptAssemblies/Unity.InternalAPIEngineBridge.001.dll</HintPath>
     </Reference>
     <Reference Include="Unity.2D.Sprite.Editor">
-        <HintPath>C:/gravity.io/Unity/gravity.io/Library/ScriptAssemblies/Unity.2D.Sprite.Editor.dll</HintPath>
+        <HintPath>C:/Users/Backup_1/Documents/GitHub/gravity.io/Unity/gravity.io/Library/ScriptAssemblies/Unity.2D.Sprite.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.2D.Common.Runtime">
+        <HintPath>C:/Users/Backup_1/Documents/GitHub/gravity.io/Unity/gravity.io/Library/ScriptAssemblies/Unity.2D.Common.Runtime.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.2D.SpriteShape.Runtime">
+        <HintPath>C:/Users/Backup_1/Documents/GitHub/gravity.io/Unity/gravity.io/Library/ScriptAssemblies/Unity.2D.SpriteShape.Runtime.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.ShaderGraph.Editor">
+        <HintPath>C:/Users/Backup_1/Documents/GitHub/gravity.io/Unity/gravity.io/Library/ScriptAssemblies/Unity.ShaderGraph.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.Mathematics.Editor">
+        <HintPath>C:/Users/Backup_1/Documents/GitHub/gravity.io/Unity/gravity.io/Library/ScriptAssemblies/Unity.Mathematics.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.RenderPipelines.Core.ShaderLibrary">
+        <HintPath>C:/Users/Backup_1/Documents/GitHub/gravity.io/Unity/gravity.io/Library/ScriptAssemblies/Unity.RenderPipelines.Core.ShaderLibrary.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.TextMeshPro">
+        <HintPath>C:/Users/Backup_1/Documents/GitHub/gravity.io/Unity/gravity.io/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.2D.Common.Editor">
+        <HintPath>C:/Users/Backup_1/Documents/GitHub/gravity.io/Unity/gravity.io/Library/ScriptAssemblies/Unity.2D.Common.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.InternalAPIEditorBridge.001">
+        <HintPath>C:/Users/Backup_1/Documents/GitHub/gravity.io/Unity/gravity.io/Library/ScriptAssemblies/Unity.InternalAPIEditorBridge.001.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEditor.UI">
+        <HintPath>C:/Users/Backup_1/Documents/GitHub/gravity.io/Unity/gravity.io/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
