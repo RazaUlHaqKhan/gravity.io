@@ -4,7 +4,3 @@ By:
     Aditya Ashok
     Arya Gummadi
     Ishaan Venkat
-    Osama Bin Laden
-    Chuck Norris
-    James Charles
-    President Putin
